@@ -1,0 +1,28 @@
+
+ request-Path => /api/users ,  request-Type => GET , Date => 1732004179139 
+
+ request-Path => /api/users ,  request-Type => GET , Date => 17,32,00,42,10,409 
+
+ request-Path => /api/users ,  request-Type => GET , Date => function toLocaleString() { [native code] } 
+
+ request-Path => /api/users ,  request-Type => GET , Date => 1732004262618 
+
+ request-Path => /api/users ,  request-Type => GET , Date => 1732004297391 
+
+ request-Path => /api/users ,  request-Type => POST , Date => 1732004317295 
+
+ request-Path => /api/users/673c45d1ee44a2968beffa2d ,  request-Type => GET , Date => 1732004326737 
+
+ request-Path => /api/users ,  request-Type => GET , Date => 1732004335053 
+
+ request-Path => /api/users/673c49dd38e580759e63a4d2 ,  request-Type => GET , Date => 1732004344986 
+
+ request-Path => /api/users/673c45d1ee44a2968beffa2d ,  request-Type => PATCH , Date => 1732004353198 
+
+ request-Path => /api/users/673c463acdeba016002d09fc ,  request-Type => PATCH , Date => 1732004461760 
+
+ request-Path => /api/users/673c463acdeba016002d09fc ,  request-Type => PATCH , Date => 1732004498030 
+
+ request-Path => /api/users/673b40b19b0f4b9b4ed57880 ,  request-Type => DELETE , Date => 1732004524680 
+
+ request-Path => /api/users ,  request-Type => GET , Date => 1732004532790 
